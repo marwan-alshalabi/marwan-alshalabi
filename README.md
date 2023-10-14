@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Marwan Al Shalabi</h1>
 <h3 align="center">Currently studying Web Development</h3>
 
-Hello, I'm Marwan Al Shalabi, currently studying web development in Germany. I thrive on the excitement of learning and creating digital experiences that are both functional and visually engaging. My journey in web development is a continuous exploration of the ever-evolving world of technology.
+Hello, I'm Marwan Al Shalabi, currently  learning  web development. I thrive on the excitement of learning and creating digital experiences that are both functional and visually engaging. My journey in web development is a continuous exploration of the ever-evolving world of technology.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwan-alshalabi&label=Profile%20views&color=0e75b6&style=flat" alt="marwan-alshalabi" /> </p>
 
