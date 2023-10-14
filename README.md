@@ -1,6 +1,6 @@
 [![MasterHead](cover.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Marwan Al Shalabi</h1>
-<h3 align="center">Currently studying Web Development</h3>
+<h3 align="center">Currently learing Web Development</h3>
 
 Hello, I'm Marwan Al Shalabi, currently  learning  web development. I thrive on the excitement of learning and creating digital experiences that are both functional and visually engaging. My journey in web development is a continuous exploration of the ever-evolving world of technology.
 
