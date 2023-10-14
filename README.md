@@ -12,7 +12,7 @@ Hello, I'm Marwan Al Shalabi, currently studying web development in Germany. I t
   
 - 📫 How to reach me **alshalabimarwan1@gmail.com**
   
-- ⚡ Fun fact I am Funny
+- ⚡ Fun fact I love vacation
 
 <p align="left">
 </p>
