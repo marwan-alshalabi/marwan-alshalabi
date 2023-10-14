@@ -8,7 +8,7 @@ Hello, I'm Marwan Al Shalabi, a passionate web developer based in Germany. I thr
 
 - 🌱 I’m currently learning Web Development
   
-- 💬 Ask me about Javascript
+- 💬 Ask me about Python
   
 - 📫 How to reach me **alshalabimarwan1@gmail.com**
   
