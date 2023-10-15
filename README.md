@@ -12,7 +12,7 @@ Hello, I'm Marwan Al Shalabi, currently  learning  web development. I thrive on 
   
 - 📫 How to reach me **alshalabimarwan1@gmail.com**
   
-- ⚡ Fun fact I love vacation
+- ⚡ Fun fact I love to travel
 
 <p align="left">
 </p>
