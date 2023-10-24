@@ -6,13 +6,13 @@ Hello, I'm Marwan Al Shalabi, currently  learning  web development. I thrive on 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwan-alshalabi&label=Profile%20views&color=0e75b6&style=flat" alt="marwan-alshalabi" /> </p>
 
-- 🌱 I’m currently learning to be a Python Programmer
+- 🌱 I’m currently learning to be a **Python Programmer**
   
 - 💞 I’m looking to collaborate with **other content creators**
   
 - 📫 How to reach me **alshalabimarwan1@gmail.com**
   
-- ⚡ I love to travel and to programming
+- ⚡ I love **to travel and to programming**
 
 <p align="left">
 </p>
