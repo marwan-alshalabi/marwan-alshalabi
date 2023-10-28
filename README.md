@@ -1,5 +1,5 @@
 [![MasterHead](cover.gif)](https://rishavchanda.io)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=500&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Marwan+Al Shalabi;i'm+Currently+learing+Web+Development" alt="Typing SVG" /></a>
+<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=500&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Marwan+Al Shalabi;I'm+Currently+learing+Web+Development" alt="Typing SVG" /></a>
 
 
 Hello, I'm Marwan Al Shalabi, currently  learning  web development. I thrive on the excitement of learning and creating digital experiences that are both functional and visually engaging. My journey in web development is a continuous exploration of the ever-evolving world of technology.
