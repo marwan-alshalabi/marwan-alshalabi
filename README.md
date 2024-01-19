@@ -8,7 +8,7 @@ Hello, I'm Marwan Al Shalabi, currently  learning  web development. I thrive on 
 
 - 🌱 I’m currently learning to be a **Python Programmer**
   
-- 💞 I’m looking to collaborate with **other content creators**
+- 💞 I’m looking to collaborate with **other content programmers**
   
 - 📫 How to reach me **alshalabimarwan1@gmail.com**
   
