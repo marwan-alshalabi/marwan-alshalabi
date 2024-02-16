@@ -43,7 +43,7 @@ Hello, I'm Marwan Al Shalabi, currently  learning  web development. I thrive on 
 [![Htmx](https://img.shields.io/badge/Htmx-FF4700?style=for-the-badge&logo=htmx&logoColor=white&labelColor=FF4700)](https://htmx.org/)
 [![Deploy](https://img.shields.io/badge/Deploy-2CA5E0?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2CA5E0)](https://vercel.com/)
 [![Object-Oriented Programming (OOP)](https://img.shields.io/badge/Object--Oriented%20Programming%20(OOP)-3333FF?style=for-the-badge&logo=oop&logoColor=white&labelColor=3333FF)](https://en.wikipedia.org/wiki/Object-oriented_programming)
-[![Caching](https://img.shields.io/badge/Caching-111111?style=for-the-badge&labelColor=111111)](https://en.wikipedia.org/wiki/Cache_(computing))
+<br>[![Caching](https://img.shields.io/badge/Caching-111111?style=for-the-badge&labelColor=111111)](https://en.wikipedia.org/wiki/Cache_(computing))
 [![Translation](https://img.shields.io/badge/Translation-111111?style=for-the-badge&labelColor=111111)](https://en.wikipedia.org/wiki/Software_localization)
 [![Deployment](https://img.shields.io/badge/Deployment-111111?style=for-the-badge&labelColor=111111)](https://en.wikipedia.org)
 [![Summernote](https://img.shields.io/badge/Summernote-111111?style=for-the-badge&labelColor=111111)](https://summernote.org/)
