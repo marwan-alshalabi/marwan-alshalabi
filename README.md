@@ -6,7 +6,7 @@ Hello, I'm Marwan Al Shalabi, currently  learning  web development. I thrive on 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwan-alshalabi&label=Profile%20views&color=0e75b6&style=flat" alt="marwan-alshalabi" /> </p>
 
-- 🌱 I’m currently learning to be a **Python Programmer**
+- 🌱 Ask me about any **tech-related stuff**
   
 - 💞 I’m looking to collaborate with **other content programmers**
   
