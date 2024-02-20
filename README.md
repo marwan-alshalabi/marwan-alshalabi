@@ -9,7 +9,7 @@ Hello, I'm Marwan Al Shalabi, currently  learning  web development. I thrive on 
 🔭 I’m currently working on my Skills.
 🌱 I’m currently learning more about Fullstack Web development
 💬 Ask me about any tech-related stuff.
-📫 How to reach me: Email - joeel56@8mylez.com
+📫 How to reach me: Email - alshalabimarwan1@gmail.com
 ⚡ Fun fact : Spaces are better than tabs
 
 
