@@ -6,11 +6,8 @@ Hello, I'm Marwan Al Shalabi, currently  learning  web development. I thrive on 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwan-alshalabi&label=Profile%20views&color=0e75b6&style=flat" alt="marwan-alshalabi" /> </p>
 
-🔭 I’m currently working on my Skills.
-🌱 I’m currently learning more about Fullstack Web development
-💬 Ask me about any tech-related stuff.
-📫 How to reach me: Email - alshalabimarwan1@gmail.com
-⚡ Fun fact : Spaces are better than tabs
+🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Fullstack Web development<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - alshalabimarwan1@gmail.com<br>⚡ Fun fact: Spaces are better than tabs 
+
 
 
 <p align="left">
