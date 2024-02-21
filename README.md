@@ -1,20 +1,21 @@
-[![MasterHead](cover.gif)](https://rishavchanda.io)
-<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=500&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Marwan+Al Shalabi;I'm+Currently+learing+Web+Development" alt="Typing SVG" /></a>
-
-
-Hello, I'm Marwan Al Shalabi, currently  learning  web development. I thrive on the excitement of learning and creating digital experiences that are both functional and visually engaging. My journey in web development is a continuous exploration of the ever-evolving world of technology.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marwan-alshalabi&label=Profile%20views&color=0e75b6&style=flat" alt="marwan-alshalabi" /> </p>
-
+# 💫 About Me:
+<img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="160" align="right" /> 
 🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Fullstack Web development<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - alshalabimarwan1@gmail.com<br>⚡ Fun fact: Spaces are better than tabs 
 
 
 
-<p align="left">
-<a href="https://www.linkedin.com/in/marwan-al-shalabi-794902288/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="90"></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+
+
+
+
+
+# 🌐 Socials:
+<a href="https://www.linkedin.com/in/marwan-al-shalabi-794902288/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="90"></a>
+
+
+# 💻 Tech Stack:
 
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20)](https://www.djangoproject.com/)
@@ -50,7 +51,6 @@ Hello, I'm Marwan Al Shalabi, currently  learning  web development. I thrive on 
 [![ORM](https://img.shields.io/badge/ORM-111111?style=for-the-badge&labelColor=111111)](https://en.wikipedia.org/wiki/Object-relational_mapping)
 
 
-
-
-  <img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Snake animation" />
+# ✍️ Random Dev Quote:
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
