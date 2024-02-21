@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="160" align="right" /> 
 🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Fullstack Web development<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - alshalabimarwan1@gmail.com<br>⚡ Fun fact: Spaces are better than tabs 
 
@@ -11,11 +11,11 @@
 
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 <a href="https://www.linkedin.com/in/marwan-al-shalabi-794902288/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="90"></a>
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20)](https://www.djangoproject.com/)
@@ -51,6 +51,6 @@
 [![ORM](https://img.shields.io/badge/ORM-111111?style=for-the-badge&labelColor=111111)](https://en.wikipedia.org/wiki/Object-relational_mapping)
 
 
-# ✍️ Random Dev Quote:
+## ✍️ Random Dev Quote:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
