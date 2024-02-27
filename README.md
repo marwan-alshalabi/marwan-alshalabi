@@ -2,6 +2,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="150" align="right" />
 🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Fullstack Web development<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - alshalabimarwan1@gmail.com <br>⚡ Fun fact: Spaces are better than tabs 
 <br>
+
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/marwan-al-shalabi-794902288/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="90"></a>
 <br>
