@@ -10,7 +10,6 @@
 <a href="https://www.linkedin.com/in/marwan-al-shalabi-794902288/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="90"></a>
 <br>
 
-
 ## 💻 Tech Stack:
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20)](https://www.djangoproject.com/)
