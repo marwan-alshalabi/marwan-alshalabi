@@ -11,8 +11,6 @@
 <br>
 
 
-
-
 ## 💻 Tech Stack:
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20)](https://www.djangoproject.com/)
